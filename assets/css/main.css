@@ -1284,8 +1284,8 @@ button {
   transition-delay: 0.75s;
   background-image: linear-gradient(
       to top,
-      rgba(19, 21, 25, 0.5),
-      rgba(19, 21, 25, 0.5)
+      rgba(19, 21, 25, 0.366),
+      rgba(19, 21, 25, 0.366)
     ),
     url("../../images/overlay.png");
   background-size: auto, 256px 256px;
@@ -1306,7 +1306,7 @@ button {
   -ms-transition: -ms-transform 0.325s ease-in-out,
     -ms-filter 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-  background-image: url("../../images/background_1.jpeg");
+  background-image: url("../../images/chicago.jpeg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
